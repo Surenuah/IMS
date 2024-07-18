@@ -1,0 +1,17 @@
+E:\rider-projects\IMS\IMS.Plugins\IMS.Plugins.InMemory\bin\Debug\net8.0\IMS.Plugins.InMemory.deps.json
+E:\rider-projects\IMS\IMS.Plugins\IMS.Plugins.InMemory\bin\Debug\net8.0\IMS.Plugins.InMemory.dll
+E:\rider-projects\IMS\IMS.Plugins\IMS.Plugins.InMemory\bin\Debug\net8.0\IMS.Plugins.InMemory.pdb
+E:\rider-projects\IMS\IMS.Plugins\IMS.Plugins.InMemory\bin\Debug\net8.0\IMS.CoreBusiness.dll
+E:\rider-projects\IMS\IMS.Plugins\IMS.Plugins.InMemory\bin\Debug\net8.0\IMS.UseCases.dll
+E:\rider-projects\IMS\IMS.Plugins\IMS.Plugins.InMemory\bin\Debug\net8.0\IMS.UseCases.pdb
+E:\rider-projects\IMS\IMS.Plugins\IMS.Plugins.InMemory\bin\Debug\net8.0\IMS.CoreBusiness.pdb
+E:\rider-projects\IMS\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net8.0\IMS.Plugins.InMemory.csproj.AssemblyReference.cache
+E:\rider-projects\IMS\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net8.0\IMS.Plugins.InMemory.GeneratedMSBuildEditorConfig.editorconfig
+E:\rider-projects\IMS\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net8.0\IMS.Plugins.InMemory.AssemblyInfoInputs.cache
+E:\rider-projects\IMS\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net8.0\IMS.Plugins.InMemory.AssemblyInfo.cs
+E:\rider-projects\IMS\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net8.0\IMS.Plugins.InMemory.csproj.CoreCompileInputs.cache
+E:\rider-projects\IMS\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net8.0\IMS.Plug.DF2EEC9E.Up2Date
+E:\rider-projects\IMS\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net8.0\IMS.Plugins.InMemory.dll
+E:\rider-projects\IMS\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net8.0\refint\IMS.Plugins.InMemory.dll
+E:\rider-projects\IMS\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net8.0\IMS.Plugins.InMemory.pdb
+E:\rider-projects\IMS\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net8.0\ref\IMS.Plugins.InMemory.dll

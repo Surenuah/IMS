@@ -1,0 +1,344 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\rider-projects\\IMS\\IMS.WebApp\\IMS.WebApp.csproj": {}
+  },
+  "projects": {
+    "E:\\rider-projects\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\rider-projects\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj",
+        "projectName": "IMS.CoreBusiness",
+        "projectPath": "E:\\rider-projects\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj",
+        "packagesPath": "C:\\Users\\Anuar\\.nuget\\packages\\",
+        "outputPath": "E:\\rider-projects\\IMS\\IMS.CoreBusiness\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Anuar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\Anuar\\.dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\rider-projects\\IMS\\IMS.DBConnection\\IMS.DBConnection.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\rider-projects\\IMS\\IMS.DBConnection\\IMS.DBConnection.csproj",
+        "projectName": "IMS.DBConnection",
+        "projectPath": "E:\\rider-projects\\IMS\\IMS.DBConnection\\IMS.DBConnection.csproj",
+        "packagesPath": "C:\\Users\\Anuar\\.nuget\\packages\\",
+        "outputPath": "E:\\rider-projects\\IMS\\IMS.DBConnection\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Anuar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\rider-projects\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj": {
+                "projectPath": "E:\\rider-projects\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj"
+              },
+              "E:\\rider-projects\\IMS\\IMS.UseCases\\IMS.UseCases.csproj": {
+                "projectPath": "E:\\rider-projects\\IMS\\IMS.UseCases\\IMS.UseCases.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\Anuar\\.dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\rider-projects\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\rider-projects\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj",
+        "projectName": "IMS.Plugins.InMemory",
+        "projectPath": "E:\\rider-projects\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj",
+        "packagesPath": "C:\\Users\\Anuar\\.nuget\\packages\\",
+        "outputPath": "E:\\rider-projects\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Anuar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\rider-projects\\IMS\\IMS.UseCases\\IMS.UseCases.csproj": {
+                "projectPath": "E:\\rider-projects\\IMS\\IMS.UseCases\\IMS.UseCases.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\Anuar\\.dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\rider-projects\\IMS\\IMS.UseCases\\IMS.UseCases.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\rider-projects\\IMS\\IMS.UseCases\\IMS.UseCases.csproj",
+        "projectName": "IMS.UseCases",
+        "projectPath": "E:\\rider-projects\\IMS\\IMS.UseCases\\IMS.UseCases.csproj",
+        "packagesPath": "C:\\Users\\Anuar\\.nuget\\packages\\",
+        "outputPath": "E:\\rider-projects\\IMS\\IMS.UseCases\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Anuar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\rider-projects\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj": {
+                "projectPath": "E:\\rider-projects\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\Anuar\\.dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\rider-projects\\IMS\\IMS.WebApp\\IMS.WebApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\rider-projects\\IMS\\IMS.WebApp\\IMS.WebApp.csproj",
+        "projectName": "IMS.WebApp",
+        "projectPath": "E:\\rider-projects\\IMS\\IMS.WebApp\\IMS.WebApp.csproj",
+        "packagesPath": "C:\\Users\\Anuar\\.nuget\\packages\\",
+        "outputPath": "E:\\rider-projects\\IMS\\IMS.WebApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Anuar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\rider-projects\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj": {
+                "projectPath": "E:\\rider-projects\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj"
+              },
+              "E:\\rider-projects\\IMS\\IMS.DBConnection\\IMS.DBConnection.csproj": {
+                "projectPath": "E:\\rider-projects\\IMS\\IMS.DBConnection\\IMS.DBConnection.csproj"
+              },
+              "E:\\rider-projects\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj": {
+                "projectPath": "E:\\rider-projects\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj"
+              },
+              "E:\\rider-projects\\IMS\\IMS.UseCases\\IMS.UseCases.csproj": {
+                "projectPath": "E:\\rider-projects\\IMS\\IMS.UseCases\\IMS.UseCases.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.Server": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\Anuar\\.dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

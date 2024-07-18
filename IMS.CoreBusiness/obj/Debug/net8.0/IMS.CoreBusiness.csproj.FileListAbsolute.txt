@@ -1,0 +1,11 @@
+E:\rider-projects\IMS\IMS.CoreBusiness\bin\Debug\net8.0\IMS.CoreBusiness.deps.json
+E:\rider-projects\IMS\IMS.CoreBusiness\bin\Debug\net8.0\IMS.CoreBusiness.dll
+E:\rider-projects\IMS\IMS.CoreBusiness\bin\Debug\net8.0\IMS.CoreBusiness.pdb
+E:\rider-projects\IMS\IMS.CoreBusiness\obj\Debug\net8.0\IMS.CoreBusiness.GeneratedMSBuildEditorConfig.editorconfig
+E:\rider-projects\IMS\IMS.CoreBusiness\obj\Debug\net8.0\IMS.CoreBusiness.AssemblyInfoInputs.cache
+E:\rider-projects\IMS\IMS.CoreBusiness\obj\Debug\net8.0\IMS.CoreBusiness.AssemblyInfo.cs
+E:\rider-projects\IMS\IMS.CoreBusiness\obj\Debug\net8.0\IMS.CoreBusiness.csproj.CoreCompileInputs.cache
+E:\rider-projects\IMS\IMS.CoreBusiness\obj\Debug\net8.0\IMS.CoreBusiness.dll
+E:\rider-projects\IMS\IMS.CoreBusiness\obj\Debug\net8.0\refint\IMS.CoreBusiness.dll
+E:\rider-projects\IMS\IMS.CoreBusiness\obj\Debug\net8.0\IMS.CoreBusiness.pdb
+E:\rider-projects\IMS\IMS.CoreBusiness\obj\Debug\net8.0\ref\IMS.CoreBusiness.dll

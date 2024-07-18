@@ -1,0 +1,15 @@
+E:\rider-projects\IMS\IMS.UseCases\bin\Debug\net8.0\IMS.UseCases.deps.json
+E:\rider-projects\IMS\IMS.UseCases\bin\Debug\net8.0\IMS.UseCases.dll
+E:\rider-projects\IMS\IMS.UseCases\bin\Debug\net8.0\IMS.UseCases.pdb
+E:\rider-projects\IMS\IMS.UseCases\bin\Debug\net8.0\IMS.CoreBusiness.dll
+E:\rider-projects\IMS\IMS.UseCases\bin\Debug\net8.0\IMS.CoreBusiness.pdb
+E:\rider-projects\IMS\IMS.UseCases\obj\Debug\net8.0\IMS.UseCases.csproj.AssemblyReference.cache
+E:\rider-projects\IMS\IMS.UseCases\obj\Debug\net8.0\IMS.UseCases.GeneratedMSBuildEditorConfig.editorconfig
+E:\rider-projects\IMS\IMS.UseCases\obj\Debug\net8.0\IMS.UseCases.AssemblyInfoInputs.cache
+E:\rider-projects\IMS\IMS.UseCases\obj\Debug\net8.0\IMS.UseCases.AssemblyInfo.cs
+E:\rider-projects\IMS\IMS.UseCases\obj\Debug\net8.0\IMS.UseCases.csproj.CoreCompileInputs.cache
+E:\rider-projects\IMS\IMS.UseCases\obj\Debug\net8.0\IMS.UseC.984B1879.Up2Date
+E:\rider-projects\IMS\IMS.UseCases\obj\Debug\net8.0\IMS.UseCases.dll
+E:\rider-projects\IMS\IMS.UseCases\obj\Debug\net8.0\refint\IMS.UseCases.dll
+E:\rider-projects\IMS\IMS.UseCases\obj\Debug\net8.0\IMS.UseCases.pdb
+E:\rider-projects\IMS\IMS.UseCases\obj\Debug\net8.0\ref\IMS.UseCases.dll
